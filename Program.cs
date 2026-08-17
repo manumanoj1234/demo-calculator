@@ -12,7 +12,6 @@ namespace DemoCalculator
             int sum = Calculator.Add(a, b);
             
             Console.WriteLine($"Add({a}, {b}) = {sum}");
-            Console.WriteLine($"Subtract({a}, {b}) = {diff}");
-        }
+       }
     }
 }
