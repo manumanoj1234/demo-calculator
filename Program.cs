@@ -8,7 +8,7 @@ namespace DemoCalculator
         {
             int a = 10;
             int b = 4;
-
+            int c = 10;
             int sum = Calculator.Add(a, b);
             
             Console.WriteLine($"Add({a}, {b}) = {sum}");
