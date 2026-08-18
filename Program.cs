@@ -8,7 +8,7 @@ namespace DemoCalculator
         {
             int a = 10;
             int b = 4;
-            int c = 10;
+            //int c = 10;
             double sum = Calculator.Add(a, b);
             double diff = Calculator.Sub(a, b);
             double multi = Calculator.Multi(a, b);
